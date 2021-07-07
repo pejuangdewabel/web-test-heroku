@@ -697,3 +697,27 @@ Products Page
   left: 10px;
   top: 10px;
 }
+
+.blog-post {
+  background: #fff;
+  position: relative;
+  margin: 20px 0;
+  border: 7px solid #fff;
+  border-radius: 5px;
+  background-clip: padding-box;
+}
+
+.post-category {
+  color: #fff;
+  line-height: 1.2;
+  position: absolute;
+  padding: 10px;
+  left: 10px;
+  top: 10px;
+  border-radius: 5px;
+  background-clip: padding-box;
+}
+
+.text-desc {
+  padding: 5px !important;
+}
