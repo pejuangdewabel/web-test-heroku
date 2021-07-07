@@ -721,3 +721,13 @@ Products Page
 .text-desc {
   padding: 5px !important;
 }
+
+.img-blog {
+  height: 80%;
+  width: 80%;
+}
+
+.div-img-blog {
+  height: 80%;
+  width: 80%;
+}
